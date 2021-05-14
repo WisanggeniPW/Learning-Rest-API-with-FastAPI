@@ -1,0 +1,8 @@
+.git
+pycache
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+.coverage
