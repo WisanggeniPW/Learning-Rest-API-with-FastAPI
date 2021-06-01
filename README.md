@@ -3,4 +3,4 @@
 
 [My Instagram](https://www.instagram.com/icangwpw/)
 
-[My Email](https://e-mailer.link/100156632807)
+[My Email](mailto:paramusesa.w@gmail.com?subject=Hello!&body=Can%20we%20be%20friend%3F)
